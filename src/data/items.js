@@ -6,7 +6,7 @@ const items = [
         plataforma: "PC / Console",
         puntaje: 9.8,
         multijugador: false,
-        imagen: "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=500&auto=format&fit=crop&q=60"
+        imagen: "https://cdn.akamai.steamstatic.com/steam/apps/292030/header.jpg"
     },
     {
         id: 2,
@@ -15,7 +15,7 @@ const items = [
         plataforma: "PC / Console",
         puntaje: 9.6,
         multijugador: true,
-        imagen: "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=500&auto=format&fit=crop&q=60"
+        imagen: "https://cdn.akamai.steamstatic.com/steam/apps/1245620/header.jpg"
     },
     {
         id: 3,
@@ -24,7 +24,7 @@ const items = [
         plataforma: "PC / Switch / Console",
         puntaje: 9.7,
         multijugador: false,
-        imagen: "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=500&auto=format&fit=crop&q=60"
+        imagen: "https://cdn.akamai.steamstatic.com/steam/apps/1030300/header.jpg"
     },
     {
         id: 4,
@@ -33,7 +33,7 @@ const items = [
         plataforma: "PC / Console",
         puntaje: 8.7,
         multijugador: false,
-        imagen: "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=500&auto=format&fit=crop&q=60"
+        imagen: "https://cdn.akamai.steamstatic.com/steam/apps/1091500/header.jpg"
     },
     {
         id: 5,
@@ -42,7 +42,7 @@ const items = [
         plataforma: "PC / Switch / Mobile",
         puntaje: 9.4,
         multijugador: true,
-        imagen: "https://images.unsplash.com/photo-1500937386664-56d1dfef3854?w=500&auto=format&fit=crop&q=60"
+        imagen: "https://cdn.akamai.steamstatic.com/steam/apps/413150/header.jpg"
     },
     {
         id: 6,
@@ -51,7 +51,7 @@ const items = [
         plataforma: "PC / Console",
         puntaje: 9.2,
         multijugador: false,
-        imagen: "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=500&auto=format&fit=crop&q=60"
+        imagen: "https://cdn.akamai.steamstatic.com/steam/apps/208650/header.jpg"
     },
     {
         id: 7,
@@ -60,7 +60,7 @@ const items = [
         plataforma: "PC / Console",
         puntaje: 9.7,
         multijugador: true,
-        imagen: "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=500&auto=format&fit=crop&q=60"
+        imagen: "https://cdn.akamai.steamstatic.com/steam/apps/1174180/header.jpg"
     },
     {
         id: 8,
@@ -69,7 +69,7 @@ const items = [
         plataforma: "PC / Console",
         puntaje: 9.3,
         multijugador: true,
-        imagen: "https://images.unsplash.com/photo-1579373903781-fd5c0c30c4cd?w=500&auto=format&fit=crop&q=60"
+        imagen: "https://cdn.akamai.steamstatic.com/steam/apps/2183900/header.jpg"
     },
     {
         id: 9,
@@ -78,7 +78,7 @@ const items = [
         plataforma: "Multiplataforma",
         puntaje: 9.5,
         multijugador: true,
-        imagen: "https://images.unsplash.com/photo-1627856013091-fed6e4e30025?w=500&auto=format&fit=crop&q=60"
+        imagen: "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/key-art/NewKeyArt_Header.jpg"
     },
     {
         id: 10,
@@ -87,7 +87,7 @@ const items = [
         plataforma: "PlayStation / PC",
         puntaje: 9.6,
         multijugador: false,
-        imagen: "https://images.unsplash.com/photo-1563089145-599997674d42?w=500&auto=format&fit=crop&q=60"
+        imagen: "https://cdn.akamai.steamstatic.com/steam/apps/2322010/header.jpg"
     },
     {
         id: 11,
@@ -96,7 +96,7 @@ const items = [
         plataforma: "PC / Mobile / Console",
         puntaje: 9.2,
         multijugador: true,
-        imagen: "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=500&auto=format&fit=crop&q=60"
+        imagen: "https://cdn.akamai.steamstatic.com/steam/apps/105600/header.jpg"
     },
     {
         id: 12,
@@ -105,7 +105,7 @@ const items = [
         plataforma: "PC / Console",
         puntaje: 9.3,
         multijugador: false,
-        imagen: "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=500&auto=format&fit=crop&q=60"
+        imagen: "https://cdn.akamai.steamstatic.com/steam/apps/3321460/header.jpg"
     },
     {
         id: 13,
@@ -114,7 +114,7 @@ const items = [
         plataforma: "PC / Console",
         puntaje: 9.0,
         multijugador: true,
-        imagen: "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=500&auto=format&fit=crop&q=60"
+        imagen: "https://cdn.akamai.steamstatic.com/steam/apps/582010/header.jpg"
     },
     {
         id: 14,
@@ -123,7 +123,7 @@ const items = [
         plataforma: "PC / Console",
         puntaje: 9.8,
         multijugador: true,
-        imagen: "https://images.unsplash.com/photo-1612287230202-1ff1d85d1bdf?w=500&auto=format&fit=crop&q=60"
+        imagen: "https://cdn.akamai.steamstatic.com/steam/apps/620/header.jpg"
     },
     {
         id: 15,
@@ -132,7 +132,7 @@ const items = [
         plataforma: "PC / Switch / Console",
         puntaje: 9.6,
         multijugador: false,
-        imagen: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=500&auto=format&fit=crop&q=60"
+        imagen: "https://cdn.akamai.steamstatic.com/steam/apps/753640/header.jpg"
     },
     {
         id: 16,
@@ -141,7 +141,7 @@ const items = [
         plataforma: "PC / Console",
         puntaje: 8.8,
         multijugador: true,
-        imagen: "https://images.unsplash.com/photo-1556910103-1c02745aae4d?w=500&auto=format&fit=crop&q=60"
+        imagen: "https://cdn.akamai.steamstatic.com/steam/apps/2344520/header.jpg"
     },
     {
         id: 17,
@@ -150,7 +150,7 @@ const items = [
         plataforma: "PC / Console",
         puntaje: 9.9,
         multijugador: true,
-        imagen: "https://images.unsplash.com/photo-1563089145-599997674d42?w=500&auto=format&fit=crop&q=60"
+        imagen: "https://cdn.akamai.steamstatic.com/steam/apps/1086940/header.jpg"
     },
     {
         id: 18,
@@ -159,7 +159,7 @@ const items = [
         plataforma: "PC / Console",
         puntaje: 9.4,
         multijugador: false,
-        imagen: "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=500&auto=format&fit=crop&q=60"
+        imagen: "https://cdn.akamai.steamstatic.com/steam/apps/3017860/header.jpg"
     },
     {
         id: 19,
@@ -168,7 +168,7 @@ const items = [
         plataforma: "PC / Console",
         puntaje: 9.7,
         multijugador: false,
-        imagen: "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=500&auto=format&fit=crop&q=60"
+        imagen: "https://cdn.akamai.steamstatic.com/steam/apps/632470/header.jpg"
     },
     {
         id: 20,
@@ -177,7 +177,7 @@ const items = [
         plataforma: "PC / Console",
         puntaje: 9.7,
         multijugador: true,
-        imagen: "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=500&auto=format&fit=crop&q=60"
+        imagen: "https://cdn.akamai.steamstatic.com/steam/apps/271590/header.jpg"
     },
     {
         id: 21,
@@ -186,7 +186,7 @@ const items = [
         plataforma: "PC / Console",
         puntaje: 9.4,
         multijugador: false,
-        imagen: "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=500&auto=format&fit=crop&q=60"
+        imagen: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3764200/ce5437442768e38eb575f205ab9397d0264017b0/header.jpg?t=1779840172"
     },
     {
         id: 22,
@@ -195,7 +195,7 @@ const items = [
         plataforma: "PC / Xbox",
         puntaje: 9.2,
         multijugador: true,
-        imagen: "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?w=500&auto=format&fit=crop&q=60"
+        imagen: "https://cdn.akamai.steamstatic.com/steam/apps/1551360/header.jpg"
     },
     {
         id: 23,
@@ -204,7 +204,7 @@ const items = [
         plataforma: "PC / Switch / Console",
         puntaje: 9.3,
         multijugador: true,
-        imagen: "https://images.unsplash.com/photo-1563089145-599997674d42?w=500&auto=format&fit=crop&q=60"
+        imagen: "https://cdn.akamai.steamstatic.com/steam/apps/268910/header.jpg"
     },
     {
         id: 24,
@@ -213,7 +213,7 @@ const items = [
         plataforma: "PC / Console",
         puntaje: 9.5,
         multijugador: false,
-        imagen: "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=500&auto=format&fit=crop&q=60"
+        imagen: "https://cdn.akamai.steamstatic.com/steam/apps/814380/header.jpg"
     },
     {
         id: 25,
@@ -222,7 +222,7 @@ const items = [
         plataforma: "PC / PlayStation",
         puntaje: 9.0,
         multijugador: true,
-        imagen: "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=500&auto=format&fit=crop&q=60"
+        imagen: "https://cdn.akamai.steamstatic.com/steam/apps/553850/header.jpg"
     }
 ];
 
